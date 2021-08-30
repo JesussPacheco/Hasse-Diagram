@@ -1,0 +1,54 @@
+﻿  MyForm.cpp
+c:\users\jesus\documents\2020-2\matemática discreta\semana 2\fintp\hasse\Calculator.h(50): warning C4018: '<': no coinciden signed/unsigned
+c:\users\jesus\documents\2020-2\matemática discreta\semana 2\fintp\hasse\Calculator.h(65): warning C4018: '<': no coinciden signed/unsigned
+c:\users\jesus\documents\2020-2\matemática discreta\semana 2\fintp\hasse\Calculator.h(77): warning C4018: '<': no coinciden signed/unsigned
+c:\users\jesus\documents\2020-2\matemática discreta\semana 2\fintp\hasse\Calculator.h(85): warning C4018: '<': no coinciden signed/unsigned
+c:\users\jesus\documents\2020-2\matemática discreta\semana 2\fintp\hasse\Calculator.h(98): warning C4018: '<': no coinciden signed/unsigned
+c:\users\jesus\documents\2020-2\matemática discreta\semana 2\fintp\hasse\Calculator.h(99): warning C4018: '<': no coinciden signed/unsigned
+c:\users\jesus\documents\2020-2\matemática discreta\semana 2\fintp\hasse\Calculator.h(108): warning C4018: '<': no coinciden signed/unsigned
+c:\users\jesus\documents\2020-2\matemática discreta\semana 2\fintp\hasse\Calculator.h(118): warning C4018: '<': no coinciden signed/unsigned
+c:\users\jesus\documents\2020-2\matemática discreta\semana 2\fintp\hasse\Calculator.h(119): warning C4018: '<': no coinciden signed/unsigned
+c:\users\jesus\documents\2020-2\matemática discreta\semana 2\fintp\hasse\Calculator.h(129): warning C4018: '<': no coinciden signed/unsigned
+c:\users\jesus\documents\2020-2\matemática discreta\semana 2\fintp\hasse\Calculator.h(130): warning C4018: '<': no coinciden signed/unsigned
+c:\users\jesus\documents\2020-2\matemática discreta\semana 2\fintp\hasse\Calculator.h(138): warning C4018: '<': no coinciden signed/unsigned
+c:\users\jesus\documents\2020-2\matemática discreta\semana 2\fintp\hasse\Calculator.h(139): warning C4018: '<': no coinciden signed/unsigned
+c:\users\jesus\documents\2020-2\matemática discreta\semana 2\fintp\hasse\Calculator.h(148): warning C4018: '<': no coinciden signed/unsigned
+c:\users\jesus\documents\2020-2\matemática discreta\semana 2\fintp\hasse\Calculator.h(149): warning C4018: '<': no coinciden signed/unsigned
+c:\users\jesus\documents\2020-2\matemática discreta\semana 2\fintp\hasse\Calculator.h(160): warning C4018: '<': no coinciden signed/unsigned
+c:\users\jesus\documents\2020-2\matemática discreta\semana 2\fintp\hasse\Calculator.h(167): warning C4018: '<': no coinciden signed/unsigned
+c:\users\jesus\documents\2020-2\matemática discreta\semana 2\fintp\hasse\Calculator.h(168): warning C4018: '<': no coinciden signed/unsigned
+c:\users\jesus\documents\2020-2\matemática discreta\semana 2\fintp\hasse\Calculator.h(181): warning C4018: '<': no coinciden signed/unsigned
+c:\users\jesus\documents\2020-2\matemática discreta\semana 2\fintp\hasse\Calculator.h(182): warning C4018: '<': no coinciden signed/unsigned
+c:\users\jesus\documents\2020-2\matemática discreta\semana 2\fintp\hasse\Calculator.h(184): warning C4018: '<': no coinciden signed/unsigned
+c:\users\jesus\documents\2020-2\matemática discreta\semana 2\fintp\hasse\Calculator.h(196): warning C4018: '<': no coinciden signed/unsigned
+c:\users\jesus\documents\2020-2\matemática discreta\semana 2\fintp\hasse\Calculator.h(197): warning C4018: '<': no coinciden signed/unsigned
+c:\users\jesus\documents\2020-2\matemática discreta\semana 2\fintp\hasse\Calculator.h(203): warning C4018: '<': no coinciden signed/unsigned
+c:\users\jesus\documents\2020-2\matemática discreta\semana 2\fintp\hasse\Calculator.h(204): warning C4018: '<': no coinciden signed/unsigned
+c:\users\jesus\documents\2020-2\matemática discreta\semana 2\fintp\hasse\MyForm.h(324): warning C4018: '<': no coinciden signed/unsigned
+c:\users\jesus\documents\2020-2\matemática discreta\semana 2\fintp\hasse\MyForm.h(333): warning C4018: '<': no coinciden signed/unsigned
+c:\users\jesus\documents\2020-2\matemática discreta\semana 2\fintp\hasse\MyForm.h(334): warning C4018: '<': no coinciden signed/unsigned
+c:\users\jesus\documents\2020-2\matemática discreta\semana 2\fintp\hasse\MyForm.h(338): warning C4018: '>=': no coinciden signed/unsigned
+c:\users\jesus\documents\2020-2\matemática discreta\semana 2\fintp\hasse\MyForm.h(369): warning C4018: '<': no coinciden signed/unsigned
+c:\users\jesus\documents\2020-2\matemática discreta\semana 2\fintp\hasse\MyForm.h(370): warning C4018: '<': no coinciden signed/unsigned
+c:\users\jesus\documents\2020-2\matemática discreta\semana 2\fintp\hasse\MyForm.h(371): warning C4018: '<': no coinciden signed/unsigned
+c:\users\jesus\documents\2020-2\matemática discreta\semana 2\fintp\hasse\MyForm.h(372): warning C4018: '<': no coinciden signed/unsigned
+c:\users\jesus\documents\2020-2\matemática discreta\semana 2\fintp\hasse\MyForm.h(394): warning C4018: '<': no coinciden signed/unsigned
+c:\users\jesus\documents\2020-2\matemática discreta\semana 2\fintp\hasse\MyForm.h(398): warning C4018: '<': no coinciden signed/unsigned
+c:\users\jesus\documents\2020-2\matemática discreta\semana 2\fintp\hasse\MyForm.h(399): warning C4018: '<': no coinciden signed/unsigned
+c:\users\jesus\documents\2020-2\matemática discreta\semana 2\fintp\hasse\MyForm.h(409): warning C4018: '<=': no coinciden signed/unsigned
+c:\users\jesus\documents\2020-2\matemática discreta\semana 2\fintp\hasse\MyForm.h(438): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\jesus\documents\2020-2\matemática discreta\semana 2\fintp\hasse\MyForm.h(443): warning C4018: '<': no coinciden signed/unsigned
+c:\users\jesus\documents\2020-2\matemática discreta\semana 2\fintp\hasse\MyForm.h(446): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\jesus\documents\2020-2\matemática discreta\semana 2\fintp\hasse\MyForm.h(465): warning C4018: '<': no coinciden signed/unsigned
+c:\users\jesus\documents\2020-2\matemática discreta\semana 2\fintp\hasse\MyForm.h(479): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\jesus\documents\2020-2\matemática discreta\semana 2\fintp\hasse\MyForm.h(483): warning C4018: '<': no coinciden signed/unsigned
+c:\users\jesus\documents\2020-2\matemática discreta\semana 2\fintp\hasse\MyForm.h(486): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\jesus\documents\2020-2\matemática discreta\semana 2\fintp\hasse\MyForm.h(423): warning C4101: 'auxY': variable local sin referencia
+c:\users\jesus\documents\2020-2\matemática discreta\semana 2\fintp\hasse\MyForm.h(539): warning C4018: '<': no coinciden signed/unsigned
+c:\users\jesus\documents\2020-2\matemática discreta\semana 2\fintp\hasse\MyForm.h(547): warning C4018: '<': no coinciden signed/unsigned
+c:\users\jesus\documents\2020-2\matemática discreta\semana 2\fintp\hasse\MyForm.h(556): warning C4018: '<': no coinciden signed/unsigned
+c:\users\jesus\documents\2020-2\matemática discreta\semana 2\fintp\hasse\MyForm.h(557): warning C4018: '<': no coinciden signed/unsigned
+c:\users\jesus\documents\2020-2\matemática discreta\semana 2\fintp\hasse\MyForm.h(561): warning C4018: '>=': no coinciden signed/unsigned
+c:\users\jesus\documents\2020-2\matemática discreta\semana 2\fintp\hasse\MyForm.h(589): warning C4244: 'argumento': conversión de 'wchar_t' a 'char'; posible pérdida de datos
+  Hasse.vcxproj -> C:\Users\Jesus\Documents\2020-2\Matemática Discreta\Semana 2\finTP\Release\Hasse.exe
+  Hasse.vcxproj -> C:\Users\Jesus\Documents\2020-2\Matemática Discreta\Semana 2\finTP\Release\Hasse.pdb (Full PDB)
